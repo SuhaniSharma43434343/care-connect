@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SuhaniSharma43434343/care-connect/static/css/main.7b2c4882.css",
+    "main.js": "/SuhaniSharma43434343/care-connect/static/js/main.151f3785.js",
+    "index.html": "/SuhaniSharma43434343/care-connect/index.html",
+    "main.7b2c4882.css.map": "/SuhaniSharma43434343/care-connect/static/css/main.7b2c4882.css.map",
+    "main.151f3785.js.map": "/SuhaniSharma43434343/care-connect/static/js/main.151f3785.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2c4882.css",
+    "static/js/main.151f3785.js"
+  ]
+}
